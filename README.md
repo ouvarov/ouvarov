@@ -15,6 +15,7 @@ Frontend-leaning product engineer from Kyiv. 7+ years in consumer web, the last 
 
 | Project | What it is | Stack |
 |---|---|---|
+| **Pulse** — [web](https://github.com/ouvarov/viteSocialNetwork-) · [API](https://github.com/ouvarov/nestSocialNetwork) · [live demo](https://pulse-social-henna.vercel.app) | Full-stack real-time social network: image posts, optimistic likes, live chat. Rotating refresh tokens behind a same-origin proxy, a typed OpenAPI contract between the two repos, unit, e2e and Playwright tests in CI. | React 19, TanStack Query, Socket.IO, NestJS, PostgreSQL, Redis |
 | [mini-gcs](https://github.com/ouvarov/mini-gcs) | Desktop ground control station: live MAVLink telemetry, flight-log replay, Kalman track prediction. Tested against ArduPilot SITL. | Electron, React, TypeScript, Vitest, Playwright |
 | [scroll-parallax](https://github.com/ouvarov/scroll-parallax) | Tiny React library for scroll-driven animation on pure CSS `animation-timeline`. Published on npm. | React, TypeScript, CSS |
 | [analog-clock](https://github.com/ouvarov/analog-clock) | Themeable analog clock — SCSS maps + CSS custom properties in practice. | React, Vite, SCSS |
@@ -29,7 +30,7 @@ Frontend-leaning product engineer from Kyiv. 7+ years in consumer web, the last 
 
 #### Stack
 
-TypeScript · React · Next.js · Redux / Redux Saga · SCSS · Node.js · NestJS · PostgreSQL · Docker · Storybook · Vitest / Jest / Playwright · Electron · Python (LLM pipelines)
+TypeScript · React · Next.js · TanStack Query · Redux / Redux Saga · SCSS · Node.js · NestJS · PostgreSQL · Redis · Socket.IO · Docker · Storybook · Vitest / Jest / Playwright · Electron · Python (LLM pipelines)
 
 #### Contact
 
